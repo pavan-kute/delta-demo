@@ -1,3 +1,2 @@
 # delta-demo
-This is a demo
-#include.jk
+This is a Demo for Git & Github class
